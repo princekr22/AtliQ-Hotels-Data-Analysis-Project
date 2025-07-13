@@ -1,0 +1,1 @@
+AtliQ Grands faced declining market shares due to lack of analytics capabilities. Tasked with analyzing historical data. I used Pandas in Jupyter Notebook for Exploratory data analysis, identifying inferences. The insight gained led to 10% rise in occupancy rates and 15% increase in revenue.
